@@ -1,21 +1,54 @@
 <h1 align="center">Hi 👋, I'm M. Sakurada</h1>
-<h3 align="center">A Mechatronics Engineer trying my way to Cybersecurity/IT~~</h3>
+<h3 align="center">A Mechatronics Engineer trying my way to Data Engineering/IT</h3>
 
-- 🔭 I’m currently working on **The Odin Project**
+- 🔭 I’m currently doing a **Data Engineering Specialization**
 
-- 🌱 I’m currently learning **Front-end and JS / Data Analysis and Python**. I did start the École 42 course, and focused on the C Programming basics.
+- 🌱 I’m currently learning **Airbyte and dbt / ETL**.
 
-- 💬 Ask me about **Data Analysis / Power BI**
+- 🎓 **Curriculum Details:**
+    - Mechatronics Engineering, Esp32 automation
+    - IaC, Terraform
+    - Data Warehouse Modeling, PostgreSQL, AWS Redshift
+
+- 💬 Ask me about **Data Analytics**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discordapp.com/users/1042965769354498079" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/1042965769354498079" height="30" width="40" /></a>
+  <a href="https://discordapp.com/users/1042965769354498079" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40"/>
+  </a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=msakurad&theme=rose)
-
-### My Current Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=msakurad&theme=default&currStreakLabel=B71F36&ring=B71F36&currStreakNum=862931&sideNums=862931&background=e9d8d4&border=e9d8d4&dates=8d192b)](https://git.io/streak-stats)
+<p align="left">
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>(pandas, great expectations)
+  </a>
+  <br/>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+  </a>
+  <br/>
+  <a href="https://www.terraform.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+  </a>
+  <a href="https://airbyte.com" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/59758427?s=200&amp;v=4" alt="Airbyte" width="40" height="40"/>
+  </a>
+  <a href="https://www.metabase.com" target="_blank" rel="noreferrer">
+    <img src="https://www.metabase.com/images/logo.svg" alt="Metabase" width="40" height="40"/>
+  </a>
+  <a href="https://streamlit.io" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit" width="40" height="40"/>
+  </a>
+</p>
